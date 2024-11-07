@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>eBay.Service</id>
+    <version>3.1379.0</version>
+    <title>eBay.Service</title>
+    <authors>eBay, Inc.</authors>
+    <description>SDK for eBay Trading SOAP API v1379</description>
+  </metadata>
+</package>
