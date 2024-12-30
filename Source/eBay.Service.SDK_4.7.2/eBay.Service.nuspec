@@ -2,9 +2,9 @@
 <package>
   <metadata>
     <id>eBay.Service</id>
-    <version>3.1379.0</version>
+    <version>3.1391.0</version>
     <title>eBay.Service</title>
     <authors>eBay, Inc.</authors>
-    <description>SDK for eBay Trading SOAP API v1379</description>
+    <description>SDK for eBay Trading SOAP API v1391</description>
   </metadata>
 </package>
